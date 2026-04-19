@@ -1,11 +1,12 @@
+# CLM Website for CrowVakil
 
-  # CLM Website for CrowVakil
+This is the frontend for the CLM (Contract Lifecycle Management) system built for CrowVakil.
 
-  This is a code bundle for CLM Website for CrowVakil. The original project is available at https://www.figma.com/design/VTcqoDUiuKWC7EBtXCb73V/CLM-Website-for-CrowVakil.
+## 🚀 Running the project
 
-  ## Running the code
+Install dependencies:
+npm install
 
-  Run `npm i` to install the dependencies.
+Start development server:
+npm run dev
 
-  Run `npm run dev` to start the development server.
-  
